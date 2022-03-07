@@ -3,7 +3,7 @@
     border-radius: 3rem;
     background-color: var(--gray-850);
     border: 0;
-    padding: 0 1.5rem;
+    padding: 0 0.75rem;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -12,8 +12,8 @@
     transition: filter 2s;
 
     svg{
-        width: 20px;
-        height: 20px;
+        width: 30px;
+        height: 30px;
 
         &.closeIcon{
             margin-left: 1rem;
@@ -23,7 +23,7 @@
     img{
         width: 20px;
         height: 20px;
-        border-radius: 10px;
+        border-radius: 5px;
         margin-right: 0.2rem;
     }
 
